@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-For around 20 years, I have been working a lot on many projects, since small websites, simple e-commerce projects, SaaS, mobile apps, and entire full-stack applications. I migrated from PHP to Node in this last 6 years, so, I have been a lot busy putting focus on Javascript Stack creating scalable software with Node, React and now, Vue.js. As I like to push myself towards the next level, I have been diving into SOLID philosophy, clean code, and tests in order to deliver high quality software.
+For around 20 years, I have been working a lot on many projects, since small websites, simple e-commerce projects, SaaS, mobile apps, and entire full-stack applications. I migrated from PHP to Node in the last 6 years, so, I have been a lot busy putting focus on Javascript Stack creating scalable software with Node, React and now, Vue.js. As I like to push myself towards the next level, I have been diving into SOLID philosophy, clean code, and tests in order to deliver high quality software.
 
 I have a lot of motivations, but the biggest maybe is to contribute on impactful projects, to contribute for making people's life better with my work.
 
