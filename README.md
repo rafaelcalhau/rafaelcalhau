@@ -8,7 +8,7 @@ Love animals and I hate to kill even a tiny ant. Also, I enjoy trying to learn s
 
 ## 🌱 What I have been learning recently
 
-### Diving into AWS Services
+### Diving into AWS
 Besides I already used a few AWS services in my personal and projects at the work, I like to dive into the technology and amplify my knowledge about everything around my tech stack. Everything that can help me thrive more and more in technology and of course, help companies and colleagues to build amazing and scalable software.
 
 ## ⚡ Fun fact
