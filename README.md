@@ -6,22 +6,18 @@
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/rafaelcalhau?label=GitHub%20Followers&style=social)-->
 
 <h1>Hi there, I'm Rafael 👋</h1>
-
 <p>
   <em>Senior Frontend Engineer | Fullstack Developer | Indie Maker | 🇧🇷 Based in Brazil</em>
 </p>
 
----
-
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Frontend Engineer** at [Neogrid](https://neogrid.com)
+- 🔭 I’m currently working as a **Senior Frontend Engineer** at [Neogrid](https://neogrid.com)
 - 🌱 Focused on **React**, **modular architectures**, and **clean code**
 - 🧠 Interested in space exploration, AI, genetics, and how to build better software
 - 🚀 Indie hacker working on small SaaS apps with my own software studio
+- 🐾 Animal lover — I find time with pets helps recharge my mind
 - 📬 Reach me: [LinkedIn](https://linkedin.com/in/rafaelcalhau) | [Email](mailto:calhaudev@gmail.com)
-
----
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +27,6 @@
 - **Databases:**      MySQL | PostgreSQL | MongoDB | BigQuery | Firestore | DynamoDB | ElasticSearch 
 - **Cloud & DevOps:** AWS | Firebase | Docker | K8s
 
----
 <!--
 ### 📊 GitHub Stats
 
@@ -57,10 +52,5 @@ Here are a few things I’m proud of:
 ### 🧠 Fun Facts
 
 - 💡 I sometimes shuffle dance while thinking through code
-- 🪐 My dream is to one day build software for the **space industry**
-- 🕹️ I bought my wife a pink Xbox controller, but she never plays 😅
-
----
-
-[![Rafael's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelcalhau&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+- 🪐 Aspiring to one day build software for the **space industry**
+- 🎮 Bought my wife a pink Xbox controller, but she never plays. 😅
