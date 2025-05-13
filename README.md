@@ -1,42 +1,66 @@
-## Hi there 👋
+![Role](https://img.shields.io/badge/Current_Role-Frontend_Engineer-blue)
+![Stack](https://img.shields.io/badge/Main_Stack-React_&_Node.js-brightgreen)
+![Location](https://img.shields.io/badge/Based-in_Brazil-yellow)
+![Experience](https://img.shields.io/badge/Experience-%2B10%20years-informational)
+![Relocation](https://img.shields.io/badge/Open%20to-Relocation%20(US)-blueviolet)
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/rafaelcalhau?label=GitHub%20Followers&style=social)-->
 
-Full Stack Engineer with over 10 years of experience building and maintaining scalable web and mobile applications using React, Node.js, Vue, PHP, and cloud technologies. Proven track record in technical leadership, cross-functional collaboration, and driving product quality. Passionate about clean architecture, developer productivity, and continuous learning.
+<h1>Hi there, I'm Rafael 👋</h1>
 
-👯 I’m looking to collaborate on react open source projects.
+<p>
+  <em>Senior Frontend Engineer | Fullstack Developer | Indie Maker | 🇧🇷 Based in Brazil</em>
+</p>
 
-### Skills
+---
 
-**Languages**: JavaScript, TypeScript, PHP, Java
+### 👨‍💻 About Me
 
-**Frontend**: React, React Native, Vue.js, Angular, HTML, CSS, Sass, Tailwind, Bootstrap
+- 🔭 I’m currently working as a **Frontend Engineer** at [Neogrid](https://neogrid.com)
+- 🌱 Focused on **React**, **modular architectures**, and **clean code**
+- 🧠 Interested in space exploration, AI, genetics, and how to build better software
+- 🚀 Indie hacker working on small SaaS apps with my own software studio
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/rafaelcalhau) | [Email](mailto:calhaudev@gmail.com)
 
-**Backend**: Node.js, NestJS, Express, Fastify, Laravel
+---
 
-**Databases**: MySQL, PostgreSQL, MongoDB, BigQuery, ElasticSearch, DynamoDB, Redis
+### 🛠️ Tech Stack
 
-**DevOps & Cloud**: Docker, AWS, Firebase, Terraform
+- **Languages:**      JavaScript | TypeScript | PHP | Java
+- **Frontend:**       React | React Native | Vue.js | Angular
+- **Backend:**        Node.js | NestJS | Express | Fastify | Laravel 
+- **Databases:**      MySQL | PostgreSQL | MongoDB | BigQuery | Firestore | DynamoDB | ElasticSearch 
+- **Cloud & DevOps:** AWS | Firebase | Docker | K8s
 
-**Tools**: Git, Jira, Figma, Miro
-
+---
 <!--
-## ⚡ Fun fact
-I'm trying to learn shuffling dance lol, see more about the style [here](https://edm.com/features/learn-shuffle-asap#:~:text=Shuffling%20originated%20in%20Melbourne%2C%20Australia,fans%20all%20over%20the%20world.).
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelcalhau&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Rafael's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelcalhau&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+Here are a few things I’m proud of:
+
+- 🏠 **Condo App** — Modern platform for condominiums with real-time features
+- 📊 **Superset Monitoring Talk** — Shared monitoring architecture for Apache Superset
+- 🧰 **Modular TODO App** — Built using React Context + `useReducer` with modular stores
+
+---
 -->
 
-## 📫 How to reach me
-Wanna talk =)? Drop me a line: calhaudev@gmail.com
+### 🧠 Fun Facts
 
-<!--
-**rafaelcalhau/rafaelcalhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 I sometimes shuffle dance while thinking through code
+- 🪐 My dream is to one day build software for the **space industry**
+- 🕹️ I bought my wife a pink Xbox controller, but she never plays 😅
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Rafael's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelcalhau&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
