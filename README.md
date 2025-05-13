@@ -1,18 +1,27 @@
 ## Hi there 👋
 
-For 20 years, I have been working on many projects, from small websites, simple e-commerce projects, SaaS, mobile apps, and entire full-stack applications. I migrated from PHP to Node in the last 6 years, so, I have been a lot busy focusing on Javascript Stack creating scalable software with Node, React, and now, Vue.js. As I like to push myself toward the next level, I have been diving into SOLID philosophy, clean code, and tests in order to deliver high-quality software. 
+Full Stack Engineer with over 10 years of experience building and maintaining scalable web and mobile applications using React, Node.js, Vue, PHP, and cloud technologies. Proven track record in technical leadership, cross-functional collaboration, and driving product quality. Passionate about clean architecture, developer productivity, and continuous learning.
 
-I have a lot of motivations, but the biggest maybe is to contribute to impactful projects and to contribute to making people's lives better with my work.
+👯 I’m looking to collaborate on react open source projects.
 
-Love animals and I hate to kill even a tiny ant. Also, I enjoy trying to learn shuffle, I think this dance style is fantastic lol.
+### Skills
 
-## 🌱 What I have been learning recently
+**Languages**: JavaScript, TypeScript, PHP, Java
 
-### Diving into AWS
-Besides I already used a few services from AWS in my personal projects and in projects at the work, I like to dive into the technology and amplify my knowledge about everything around my tech stack. Everything that can help me thrive more and more in technology and of course, help companies and colleagues to build amazing and scalable software.
+**Frontend**: React, React Native, Vue.js, Angular, HTML, CSS, Sass, Tailwind, Bootstrap
 
+**Backend**: Node.js, NestJS, Express, Fastify, Laravel
+
+**Databases**: MySQL, PostgreSQL, MongoDB, BigQuery, ElasticSearch, DynamoDB, Redis
+
+**DevOps & Cloud**: Docker, AWS, Firebase, Terraform
+
+**Tools**: Git, Jira, Figma, Miro
+
+<!--
 ## ⚡ Fun fact
 I'm trying to learn shuffling dance lol, see more about the style [here](https://edm.com/features/learn-shuffle-asap#:~:text=Shuffling%20originated%20in%20Melbourne%2C%20Australia,fans%20all%20over%20the%20world.).
+-->
 
 ## 📫 How to reach me
 Wanna talk =)? Drop me a line: calhaudev@gmail.com
